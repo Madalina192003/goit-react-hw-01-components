@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Madalina192003/goit-react-hw-01-components.git/static/css/main.4bd3d6a0.css",
-    "main.js": "/Madalina192003/goit-react-hw-01-components.git/static/js/main.c2871692.js",
+    "main.css": "/Madalina192003/goit-react-hw-01-components.git/static/css/main.e5bef538.css",
+    "main.js": "/Madalina192003/goit-react-hw-01-components.git/static/js/main.7e049e7e.js",
     "index.html": "/Madalina192003/goit-react-hw-01-components.git/index.html",
-    "main.4bd3d6a0.css.map": "/Madalina192003/goit-react-hw-01-components.git/static/css/main.4bd3d6a0.css.map",
-    "main.c2871692.js.map": "/Madalina192003/goit-react-hw-01-components.git/static/js/main.c2871692.js.map"
+    "main.e5bef538.css.map": "/Madalina192003/goit-react-hw-01-components.git/static/css/main.e5bef538.css.map",
+    "main.7e049e7e.js.map": "/Madalina192003/goit-react-hw-01-components.git/static/js/main.7e049e7e.js.map"
   },
   "entrypoints": [
-    "static/css/main.4bd3d6a0.css",
-    "static/js/main.c2871692.js"
+    "static/css/main.e5bef538.css",
+    "static/js/main.7e049e7e.js"
   ]
 }
