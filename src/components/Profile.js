@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import './Profile.css'; // Asigură-te că ai un fișier CSS pentru stilizare
+import './Profile.css';
 
 const Profile = ({ username, tag, location, avatar, stats }) => (
   <div className="profile">

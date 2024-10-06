@@ -1,0 +1,32 @@
+/* src/components/Statistics.css */
+.statistics {
+  text-align: center;
+}
+
+.title {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.stat-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.item {
+  margin: 10px;
+  padding: 20px;
+  border-radius: 5px;
+  color: white;
+}
+
+.label {
+  display: block;
+  font-size: 18px;
+}
+
+.percentage {
+  font-size: 24px;
+}
