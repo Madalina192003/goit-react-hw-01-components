@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Madalina192003/goit-react-hw-01-components/static/css/main.8aa555d8.css",
-    "main.js": "/Madalina192003/goit-react-hw-01-components/static/js/main.ba9e077e.js",
-    "index.html": "/Madalina192003/goit-react-hw-01-components/index.html",
-    "main.8aa555d8.css.map": "/Madalina192003/goit-react-hw-01-components/static/css/main.8aa555d8.css.map",
-    "main.ba9e077e.js.map": "/Madalina192003/goit-react-hw-01-components/static/js/main.ba9e077e.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.8aa555d8.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.ba9e077e.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.8aa555d8.css.map": "/goit-react-hw-01-components/static/css/main.8aa555d8.css.map",
+    "main.ba9e077e.js.map": "/goit-react-hw-01-components/static/js/main.ba9e077e.js.map"
   },
   "entrypoints": [
     "static/css/main.8aa555d8.css",
