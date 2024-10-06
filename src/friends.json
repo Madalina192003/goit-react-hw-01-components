@@ -1,20 +1,32 @@
 [
   {
-    "id": "1",
-    "avatar": "link_to_avatar1",
-    "name": "Friend 1",
-    "isOnline": true
+    "avatar": "https://cdn-icons-png.flaticon.com/512/1998/1998592.png",
+    "name": "Mango",
+    "isOnline": true,
+    "id": 1812
   },
   {
-    "id": "2",
-    "avatar": "link_to_avatar2",
-    "name": "Friend 2",
-    "isOnline": false
+    "avatar": "https://cdn-icons-png.flaticon.com/512/616/616438.png",
+    "name": "Kiwi",
+    "isOnline": false,
+    "id": 1137
   },
   {
-    "id": "3",
-    "avatar": "link_to_avatar3",
-    "name": "Friend 3",
-    "isOnline": true
+    "avatar": "https://cdn-icons-png.flaticon.com/512/1623/1623681.png",
+    "name": "Ajax",
+    "isOnline": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://cdn-icons-png.flaticon.com/512/2977/2977285.png",
+    "name": "Jay",
+    "isOnline": true,
+    "id": 1714
+  },
+  {
+    "avatar": "https://cdn-icons-png.flaticon.com/512/1998/1998749.png",
+    "name": "Poly",
+    "isOnline": false,
+    "id": 1284
   }
 ]

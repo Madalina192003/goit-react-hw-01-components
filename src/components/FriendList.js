@@ -2,7 +2,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import FriendListItem from './FriendListItem';
-import './FriendList.css'; // Asigură-te că ai un fișier CSS pentru stilizare
+import './FriendList.css'; // Asigură-te că acest import este corect
 
 const FriendList = ({ friends }) => {
   return (

@@ -1,7 +1,7 @@
 // src/components/FriendListItem.js
 import React from 'react';
 import PropTypes from 'prop-types';
-import './FriendListItem.css'; // Asigură-te că ai un fișier CSS pentru stilizare
+import './FriendListItem.css'; // Asigură-te că acest import este corect
 
 const FriendListItem = ({ avatar, name, isOnline }) => {
   return (
