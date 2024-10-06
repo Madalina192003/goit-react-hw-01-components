@@ -1,0 +1,16 @@
+/* Navigation.css */
+.navigation {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.navigation a {
+  margin: 5px 0;
+  text-decoration: none;
+  color: #000;
+}
+
+.navigation a:hover {
+  text-decoration: underline;
+}
