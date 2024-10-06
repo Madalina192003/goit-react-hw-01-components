@@ -4,19 +4,21 @@ import Profile from './Profile';
 import Statistics from './Statistics';
 import FriendList from './FriendList';
 import TransactionHistory from './TransactionHistory';
+import Navigation from './Navigation';
+
+// Importă fișierele JSON cu datele tale
 import user from '../user.json';
 import data from '../data.json';
 import friends from '../friends.json';
 import transactions from '../transactions.json';
-import Navigation from './Navigation';
 
+// Setarea basename în funcție de mediul de lucru (development sau production)
 const isProduction = process.env.NODE_ENV === 'production';
+const basename = isProduction ? '/myapp' : '';
 
 export const App = () => {
   return (
-    <BrowserRouter
-      basename={isProduction ? '/goit-react-hw-01-components' : ''}
-    >
+    <BrowserRouter basename={basename}>
       <Navigation />
       <Routes>
         <Route
