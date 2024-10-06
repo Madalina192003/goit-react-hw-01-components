@@ -1,3 +1,4 @@
+// src/components/App.js
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Profile from './Profile';
@@ -14,7 +15,7 @@ import transactions from '../transactions.json';
 
 // Setarea basename în funcție de mediul de lucru (development sau production)
 const isProduction = process.env.NODE_ENV === 'production';
-const basename = isProduction ? '/myapp' : '';
+const basename = isProduction ? '/goit-react-hw-01-components' : '';
 
 export const App = () => {
   return (
