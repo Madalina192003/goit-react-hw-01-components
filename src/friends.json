@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "avatar": "link_to_avatar1",
+    "name": "Friend 1",
+    "isOnline": true
+  },
+  {
+    "id": "2",
+    "avatar": "link_to_avatar2",
+    "name": "Friend 2",
+    "isOnline": false
+  },
+  {
+    "id": "3",
+    "avatar": "link_to_avatar3",
+    "name": "Friend 3",
+    "isOnline": true
+  }
+]
